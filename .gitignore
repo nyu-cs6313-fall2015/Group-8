@@ -1,8 +1,5 @@
 venv
 *.pyc
-<<<<<<< HEAD
 .env
 .DS_Store
-=======
 .env
->>>>>>> 77c14556a0727ccd16b39fabc3c124b2a16c7692

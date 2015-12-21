@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Group-8
-=======
 # Real-time Twitter monitor
 
 ## Authors
@@ -24,4 +22,3 @@ It contains four part:<br>1. Search box: Search box that user can use it to inpu
 ## Final Report
 <a href="https://drive.google.com/file/d/0Bx5ze8TfKw-rSnV3ZEJtZW81SFU/view?usp=sharing">Fianl Report link</a>.
 
->>>>>>> 77c14556a0727ccd16b39fabc3c124b2a16c7692

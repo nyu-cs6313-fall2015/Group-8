@@ -1,4 +1,3 @@
-# Group-8
 # Real-time Twitter monitor
 
 ## Authors
